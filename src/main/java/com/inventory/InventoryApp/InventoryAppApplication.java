@@ -18,6 +18,7 @@ public class InventoryAppApplication {
 		SpringApplication.run(InventoryAppApplication.class, args);
 		System.out.println("Git Hub Integration");
 		System.out.println("Git Hub Integration working");
+		System.out.println("Git Hub Integration working end");
 	}
 
 }
