@@ -17,6 +17,8 @@ public class InventoryAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(InventoryAppApplication.class, args);
 		System.out.println("Sample Test Runnig in test environment");
+		System.out.println("Sample Test Runnig in test environment");
+		System.out.println("Sample Test Runnig in test environment");
 	}
 
 }
